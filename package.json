@@ -1,0 +1,19 @@
+{
+	"name": "jsonld-class-constructor",
+	"version": "1.0.0",
+	"description": "",
+	"main": "jsonld-class-constructor.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/jsonld-class-constructor"
+	},
+	"keywords": [],
+	"author": "rektide de la faye",
+	"license": "X11",
+	"dependencies": {
+		"jsonld": "^0.4.11"
+	}
+}
