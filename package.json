@@ -14,6 +14,7 @@
 	"author": "rektide de la faye",
 	"license": "X11",
 	"dependencies": {
+		"iterable-map": "^1.0.2",
 		"jsonld": "^0.4.11"
 	}
 }
